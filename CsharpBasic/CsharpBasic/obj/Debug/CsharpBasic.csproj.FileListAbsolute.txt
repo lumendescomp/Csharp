@@ -1,0 +1,10 @@
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasic\CsharpBasic\obj\Debug\CsharpBasic.csproj.AssemblyReference.cache
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasic\CsharpBasic\obj\Debug\CsharpBasic.frmAgendaContatos.resources
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasic\CsharpBasic\obj\Debug\CsharpBasic.Properties.Resources.resources
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasic\CsharpBasic\obj\Debug\CsharpBasic.csproj.GenerateResource.cache
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasic\CsharpBasic\obj\Debug\CsharpBasic.csproj.CoreCompileInputs.cache
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasic\CsharpBasic\bin\Debug\CsharpBasic.exe.config
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasic\CsharpBasic\bin\Debug\CsharpBasic.exe
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasic\CsharpBasic\bin\Debug\CsharpBasic.pdb
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasic\CsharpBasic\obj\Debug\CsharpBasic.exe
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CsharpBasic\CsharpBasic\obj\Debug\CsharpBasic.pdb
